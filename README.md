@@ -9,3 +9,16 @@ O projeto YouOwnloader foi construido, baseado em uma necessidade familiar! Meu 
 ## Ferramentas
 - Download de video e/ou audio do You Tube.
 - Formatos em MP4 ou MP3.
+
+## Instalação
+1. Inicio
+2. Inicio
+  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
+3. Inicio
+  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
+4. Inicio
+  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
+5. Inicio
+  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
+6. Inicio
+  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
