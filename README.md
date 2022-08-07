@@ -1,16 +1,16 @@
-# YouDownloader
+# :fire: YouDownloader :fire:
 
-## Sobre o projeto
+## :trophy: Sobre o projeto
 O projeto YouOwnloader foi construido, baseado em uma necessidade familiar! Meu pai gosta de ter musicas / videos do You Tube salvos em Pen-Drive, e atualmente fazer download de qualquer coisa, é extremamente perigoso quando não se tem conhecimento sobre a internet, e esse é o caso do meu pai. Com isso, desenvolvi este programa utilizando somente Python e algumas bibliotecas, que basicmente faz download de video ou audio do You Tube utilizando apenas a URL. É uma interface simples, apenas com campos objetivos e botões interativos facilitando a utilização do mesmo.
 
-## Preview
+## :jigsaw: Preview
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86068863/183274089-c334abe0-1873-4586-940a-eef770376abd.gif)
 
-## Ferramentas
+## :heavy_check_mark: Ferramentas
 - Download de video e/ou audio do You Tube.
 - Formatos em MP4 ou MP3.
 
-## Instalação
+## 	:electric_plug: Instalação
 1. Baixamos o setup no link a seguir:
 2. Executamos o setuop e selecionamos um idioma:
   - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
@@ -25,3 +25,12 @@ O projeto YouOwnloader foi construido, baseado em uma necessidade familiar! Meu 
   - ![image](https://user-images.githubusercontent.com/86068863/183274893-dc9c8d7c-d795-48ef-a5f8-85154dfb242f.png)
 7. E aqui está o programa instalado!
   - ![image](https://user-images.githubusercontent.com/86068863/183274923-73439251-dd22-4d55-ac85-8dbbdd7bb9b1.png)
+
+## 	:books: Como usar
+![image](https://user-images.githubusercontent.com/86068863/183275247-1f35b340-ae5e-4e2a-9b5f-d1e8e061dc87.png)
+
+## 	:heart: Agradecimentos Especiais
+- Bruno Santos [LinkedIn](https://www.linkedin.com/in/bruno-s4ntos/)
+- Gabriela Exposto [LinkedIn](https://www.linkedin.com/in/gabriela-exposto/)
+- Igor Fernandes [LinkedIn](https://www.linkedin.com/in/igor-fernandes-330978161/)
+- Thalita Aparecida [LinkedIn](https://www.linkedin.com/in/thalita-aparecida-4b5ba5113/)
