@@ -11,7 +11,7 @@ O projeto YouOwnloader foi construído, baseado em uma necessidade familiar! Meu
 - Formatos em MP4 ou MP3.
 
 ## 	:electric_plug: Instalação
-1. Baixamos o setup no link a seguir:
+1. Baixamos o setup no link a seguir:[Setup_YD_v1.0](https://github.com/ViniciusGasparini/YouDownloader/releases/download/v1.0/Setup_YD_v1.0.exe)
 2. Executamos o setup e selecionamos um idioma:
   - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
 3. Deixamos essa caixar marcada para criar um icone na area de trabalho:
