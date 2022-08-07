@@ -1,18 +1,18 @@
 # :fire: YouDownloader :fire:
 
 ## :trophy: Sobre o projeto
-O projeto YouOwnloader foi construido, baseado em uma necessidade familiar! Meu pai gosta de ter musicas / videos do You Tube salvos em Pen-Drive, e atualmente fazer download de qualquer coisa, é extremamente perigoso quando não se tem conhecimento sobre a internet, e esse é o caso do meu pai. Com isso, desenvolvi este programa utilizando somente Python e algumas bibliotecas, que basicmente faz download de video ou audio do You Tube utilizando apenas a URL. É uma interface simples, apenas com campos objetivos e botões interativos facilitando a utilização do mesmo.
+O projeto YouOwnloader foi construído, baseado em uma necessidade familiar! Meu pai gosta de ter musicas / vídeos do You Tube salvos em Pen-Drive, e atualmente fazer download de qualquer coisa, é extremamente perigoso quando não se tem conhecimento sobre a internet, e esse é o caso do meu pai. Com isso, desenvolvi este programa utilizando somente Python e algumas bibliotecas, que basicamente faz download de vídeo ou áudio do You Tube utilizando apenas a URL. É uma interface simples, apenas com campos objetivos e botões interativos facilitando a utilização do mesmo.
 
 ## :jigsaw: Preview
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86068863/183274089-c334abe0-1873-4586-940a-eef770376abd.gif)
 
 ## :heavy_check_mark: Ferramentas
-- Download de video e/ou audio do You Tube.
+- Download de video e/ou áudio do You Tube.
 - Formatos em MP4 ou MP3.
 
 ## 	:electric_plug: Instalação
 1. Baixamos o setup no link a seguir:
-2. Executamos o setuop e selecionamos um idioma:
+2. Executamos o setup e selecionamos um idioma:
   - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
 3. Deixamos essa caixar marcada para criar um icone na area de trabalho:
   - ![image](https://user-images.githubusercontent.com/86068863/183274867-9e8597d1-45a2-46b2-88dc-1664865ca922.png)
