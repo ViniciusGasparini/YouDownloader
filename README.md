@@ -11,14 +11,17 @@ O projeto YouOwnloader foi construido, baseado em uma necessidade familiar! Meu 
 - Formatos em MP4 ou MP3.
 
 ## Instalação
-1. Inicio
-2. Inicio
+1. Baixamos o setup no link a seguir:
+2. Executamos o setuop e selecionamos um idioma:
   - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
-3. Inicio
-  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
-4. Inicio
-  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
-5. Inicio
-  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
-6. Inicio
-  - ![image](https://user-images.githubusercontent.com/86068863/183274854-d943efeb-f722-437d-8963-b93483990922.png)
+3. Deixamos essa caixar marcada para criar um icone na area de trabalho:
+  - ![image](https://user-images.githubusercontent.com/86068863/183274867-9e8597d1-45a2-46b2-88dc-1664865ca922.png)
+4. Conferimos o que será feito e clicamos em "Avançar":
+  - ![image](https://user-images.githubusercontent.com/86068863/183274878-a371d04e-619e-4162-bc75-10810447546e.png)
+5. Será iniciado a instalação do programa:
+  - ![image](https://user-images.githubusercontent.com/86068863/183274882-6a669a6c-4f20-4ef9-b062-a5de350f0bcb.png)
+  - Por padrão o programa e instalado no seguinte diretorio: ***C:\Program Files (x86)\YouDownloader***
+6. Deixamos essa caixa marcada ou não para o programa ja ser iniciado em seguida:
+  - ![image](https://user-images.githubusercontent.com/86068863/183274893-dc9c8d7c-d795-48ef-a5f8-85154dfb242f.png)
+7. E aqui está o programa instalado!
+  - ![image](https://user-images.githubusercontent.com/86068863/183274923-73439251-dd22-4d55-ac85-8dbbdd7bb9b1.png)
